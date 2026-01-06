@@ -1,4 +1,4 @@
-## WIDS-Project-AI-for-driving-Report
+## WIDS-Project-AI-for-self-driving-car-Report
 # Week -1
 
 I focused on learning the fundamentals of the Python programming language to establish a solid base. This involved understanding Python syntax and implementing essential programming concepts such as loops, functions, and logical control structures. I also practiced solving algorithmic problems to strengthen my problem-solving skills.
