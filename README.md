@@ -15,12 +15,16 @@ I moved on to Machine Learning by studying the basics of classical ML algorithms
 
 I progressed to Deep Learning concepts, focusing on Neural Networks. I built Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) using TensorFlow and Keras. These models were applied to image classification tasks, particularly using the MNIST dataset, to analyze model architecture and performance.
 
+# Week -5
+
+I have applied my cumulative knowledge to a capstone project focused on Autonomous Driving systems. I developed a Traffic Sign Classifier using the German Traffic Sign Recognition Benchmark (GTSRB) dataset. My work involved constructing a robust Convolutional Neural Network (CNN) with advanced layers like Dropout to prevent overfitting, optimizing the model to recognize 43 distinct classes of traffic signs with high accuracy.
+
 # Tech Stack
 
-Throughout the project, I worked with the following tools and technologies:
+I have utilized a specific set of tools and languages throughout this project:
 
-Languages: Python
+**Languages: Python
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras
+**Libraries:Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, OpenCV, PIL (Pillow), Scikit-Learn
 
-Tools: Google Colab, Jupyter Notebooks
+**Tools: Google Colab, Jupyter Notebooks, Kaggle
