@@ -1,4 +1,4 @@
-## WIDS-Project-AI-for-self-driving-car-Report
+## WiDS-Project-AI-for-Self-Driving-Car-Build-a-Traffic-Sign-Classifier-Report
 # Week -1
 
 I focused on learning the fundamentals of the Python programming language to establish a solid base. This involved understanding Python syntax and implementing essential programming concepts such as loops, functions, and logical control structures. I also practiced solving algorithmic problems to strengthen my problem-solving skills.
@@ -25,6 +25,6 @@ I have utilized a specific set of tools and languages throughout this project:
 
 **Languages: Python
 
-**Libraries:Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, OpenCV, PIL (Pillow), Scikit-Learn
+**Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, OpenCV, PIL (Pillow), Scikit-Learn
 
 **Tools: Google Colab, Jupyter Notebooks, Kaggle
